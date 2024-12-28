@@ -41,3 +41,5 @@ To determine which platform (mobile app or website) contributes more to customer
 ## Results
 - Insights on customer behavior.
 - Recommendations for prioritizing mobile app or website improvements.
+
+# Data Analysis
